@@ -1,0 +1,10 @@
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/bin/Debug/netstandard2.1/SaneTranscendence.deps.json
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/bin/Debug/netstandard2.1/SaneTranscendence.dll
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/bin/Debug/netstandard2.1/SaneTranscendence.pdb
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/obj/Debug/netstandard2.1/SaneTranscendence.csproj.AssemblyReference.cache
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/obj/Debug/netstandard2.1/SaneTranscendence.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/obj/Debug/netstandard2.1/SaneTranscendence.AssemblyInfoInputs.cache
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/obj/Debug/netstandard2.1/SaneTranscendence.AssemblyInfo.cs
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/obj/Debug/netstandard2.1/SaneTranscendence.csproj.CoreCompileInputs.cache
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/obj/Debug/netstandard2.1/SaneTranscendence.dll
+/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/SaneTranscendence/obj/Debug/netstandard2.1/SaneTranscendence.pdb

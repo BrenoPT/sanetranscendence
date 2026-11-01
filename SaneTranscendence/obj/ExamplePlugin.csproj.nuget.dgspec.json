@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/ExamplePlugin/ExamplePlugin.csproj": {}
+  },
+  "projects": {
+    "/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/ExamplePlugin/ExamplePlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/ExamplePlugin/ExamplePlugin.csproj",
+        "projectName": "ExamplePlugin",
+        "projectPath": "/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/ExamplePlugin/ExamplePlugin.csproj",
+        "packagesPath": "/home/breno/.nuget/packages/",
+        "outputPath": "/home/breno/Projects/Dev/pessoais/ror2/transcendence/ExamplePlugin-main/ExamplePlugin/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/breno/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "MMHOOK.RoR2": {
+              "target": "Package",
+              "version": "[*, )",
+              "noWarn": [
+                "NU1701"
+              ]
+            },
+            "R2API.Items": {
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "R2API.Language": {
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "RiskOfRain2.GameLibs": {
+              "target": "Package",
+              "version": "[*-*, )"
+            },
+            "RoR2BepInExPack": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2021.3.45, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/breno/Projects/Dev/sdks/dotnet/sdk/10.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
